@@ -206,4 +206,10 @@ The problems with my dashboard were mostly technical issues : things like findin
 Computer scientists automate previous manual requirements. Where there was once a pencil and paper process, computer scientists are able to step in and automate the process by creating an intuitive, easy to use, and accurate program that allows an authorized user to complete the task much more efficiently. For a company like Grazioso Salvare, this program will allow the company to operate in a more efficient and accurate manner saving the company time and resources on a daily basis. 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+[View my Eportfolio here](https://github.com/JessicaDuft/EPortfolio)
 
